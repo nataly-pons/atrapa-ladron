@@ -1,0 +1,1260 @@
+2026.03.31 00:06:25 INFO  Started: Metals version 1.6.6 in folders '/home/nataly/java_projects/ladron-librado' for client Visual Studio Code 1.113.0.[0m
+2026.03.31 00:06:25 INFO  Memory monitor started[0m
+2026.03.31 00:06:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.03.31 00:06:27 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/test/java/com/ejemplo/ladron_librado/LadronLibradoApplicationTests.java. Using fallback presentation compiler.[0m
+2026.03.31 00:06:29 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/test/java/com/ejemplo/ladron_librado/LadronLibradoApplicationTests.java. Using fallback presentation compiler.[0m
+2026.03.31 00:06:46 INFO  running '/home/nataly/.sdkman/candidates/java/current/bin/java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=/home/nataly/java_projects/ladron-librado -Dmaven.home=/tmp/metals659908090565227592 -cp /tmp/metals659908090565227592/maven-wrapper.jar org.apache.maven.wrapper.MavenWrapperMain generate-sources ch.epfl.scala:bloop-maven-plugin:2.0.3:bloopInstall -DdownloadSources=true'[0m
+2026.03.31 00:06:48 INFO  [INFO] Scanning for projects...[0m
+2026.03.31 00:06:48 INFO  [INFO] [0m
+2026.03.31 00:06:48 INFO  [INFO] ---------------------< com.ejemplo:ladron-librado >---------------------[0m
+2026.03.31 00:06:48 INFO  [INFO] Building ladron-librado 0.0.1-SNAPSHOT[0m
+2026.03.31 00:06:48 INFO  [INFO]   from pom.xml[0m
+2026.03.31 00:06:48 INFO  [INFO] --------------------------------[ jar ]---------------------------------[0m
+2026.03.31 00:06:48 INFO  [INFO] [0m
+2026.03.31 00:06:48 INFO  [INFO] --- bloop:2.0.3:bloopInstall (default-cli) @ ladron-librado ---[0m
+2026.03.31 00:06:50 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies[0m
+2026.03.31 00:06:50 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-web:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-web:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-web:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-web:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-messaging:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] SUCCESS: org.springframework:spring-messaging:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:50 INFO  [INFO] Resolving artifact: org.springframework:spring-messaging:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:50 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/7.0.6/spring-messaging-7.0.6-sources.jar[0m
+2026.03.31 00:06:51 INFO  Progress (1): 0.9/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 2.3/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 3.6/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 5.0/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 6.4/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 7.7/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 9.1/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 10/432 kB [0m
+2026.03.31 00:06:51 INFO  Progress (1): 12/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 13/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 15/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 16/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 17/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 19/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 20/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 21/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 23/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 24/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 25/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 26/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 27/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 29/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 30/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 31/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 33/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 34/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 36/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 37/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 38/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 40/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 41/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 42/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 44/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 45/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 46/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 48/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 49/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 51/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 52/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 53/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 55/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 59/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 63/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 67/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 72/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 76/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 80/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 84/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 89/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 93/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 97/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 101/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 105/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 110/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 114/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 118/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 122/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 127/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 131/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 135/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 139/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 144/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 148/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 152/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 156/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 160/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 164/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 168/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 173/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 177/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 181/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 185/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 189/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 194/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 198/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 202/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 206/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 211/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 215/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 219/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 223/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 240/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 256/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 272/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 287/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 303/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 319/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 336/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 352/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 369/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 385/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 401/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 418/432 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 432 kB    [0m
+2026.03.31 00:06:51 INFO                      [0m
+2026.03.31 00:06:51 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-messaging/7.0.6/spring-messaging-7.0.6-sources.jar (432 kB at 313 kB/s)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-messaging:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.6:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.6:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.6:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.6:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-websocket/4.0.5/spring-boot-websocket-4.0.5-sources.jar[0m
+2026.03.31 00:06:51 INFO  Progress (1): 7.7/9.3 kB[0m
+2026.03.31 00:06:51 INFO  Progress (1): 9.3 kB    [0m
+2026.03.31 00:06:51 INFO                      [0m
+2026.03.31 00:06:51 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-websocket/4.0.5/spring-boot-websocket-4.0.5-sources.jar (9.3 kB at 124 kB/s)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/4.0.5/spring-boot-starter-websocket-4.0.5-sources.jar[0m
+2026.03.31 00:06:51 INFO  Progress (1): 4.8 kB[0m
+2026.03.31 00:06:51 INFO                      [0m
+2026.03.31 00:06:51 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket/4.0.5/spring-boot-starter-websocket-4.0.5-sources.jar (4.8 kB at 51 kB/s)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket-test/4.0.5/spring-boot-starter-websocket-test-4.0.5-sources.jar[0m
+2026.03.31 00:06:51 INFO  Progress (1): 4.8 kB[0m
+2026.03.31 00:06:51 INFO                      [0m
+2026.03.31 00:06:51 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-websocket-test/4.0.5/spring-boot-starter-websocket-test-4.0.5-sources.jar (4.8 kB at 28 kB/s)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-websocket:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] SUCCESS: org.springframework:spring-websocket:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:51 INFO  [INFO] Resolving artifact: org.springframework:spring-websocket:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:51 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/7.0.6/spring-websocket-7.0.6-sources.jar[0m
+2026.03.31 00:06:53 INFO  Progress (1): 7.7/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 16/289 kB [0m
+2026.03.31 00:06:53 INFO  Progress (1): 25/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 41/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 57/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 74/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 90/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 106/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 123/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 139/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 156/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 172/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 188/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 205/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 221/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 238/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 254/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 270/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 287/289 kB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 289 kB    [0m
+2026.03.31 00:06:53 INFO                      [0m
+2026.03.31 00:06:53 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/springframework/spring-websocket/7.0.6/spring-websocket-7.0.6-sources.jar (289 kB at 1.7 MB/s)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.springframework:spring-websocket:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.projectlombok:lombok:jar:1.18.44:compile (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] SUCCESS: org.projectlombok:lombok:jar:1.18.44:compile (sources = false)[0m
+2026.03.31 00:06:53 INFO  [INFO] Resolving artifact: org.projectlombok:lombok:jar:1.18.44:compile (sources = true)[0m
+2026.03.31 00:06:53 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.44/lombok-1.18.44-sources.jar[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.1/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.2/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.3/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.4/1.0 MB[0m
+2026.03.31 00:06:53 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.5/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.6/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.7/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.8/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 0.9/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0/1.0 MB[0m
+2026.03.31 00:06:54 INFO  Progress (1): 1.0 MB    [0m
+2026.03.31 00:06:54 INFO                      [0m
+2026.03.31 00:06:54 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.44/lombok-1.18.44-sources.jar (1.0 MB at 564 kB/s)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.projectlombok:lombok:jar:1.18.44:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:54 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:54 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Generated .bloop/ladron-librado.json[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-servlet:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-params:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.jayway.jsonpath:json-path:jar:2.10.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-aop:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-aop:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.xml.bind:jakarta.xml.bind-api:jar:4.0.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest:jar:3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest:jar:3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.mockito:mockito-core:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.mockito:mockito-core:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.objenesis:objenesis:jar:3.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.objenesis:objenesis:jar:3.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: io.micrometer:micrometer-commons:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-api:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-expression:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-expression:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.slf4j:slf4j-api:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.jspecify:jspecify:jar:1.0.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.fasterxml.jackson.core:jackson-annotations:jar:2.21:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: ch.qos.logback:logback-core:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-web:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-web:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-web:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-web:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-el:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-beans:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-beans:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.mockito:mockito-junit-jupiter:jar:5.20.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-messaging:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-messaging:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-messaging:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-messaging:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.6:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.6:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-test:jar:7.0.6:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-test:jar:7.0.6:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-core:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-core:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.assertj:assertj-core:jar:3.27.7:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.assertj:assertj-core:jar:3.27.7:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-context:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-context:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.ow2.asm:asm:jar:9.7.1:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.ow2.asm:asm:jar:9.7.1:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test-autoconfigure:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.slf4j:jul-to-slf4j:jar:2.0.17:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-databind:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-resttestclient:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-websocket:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: commons-logging:commons-logging:jar:1.3.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: commons-logging:commons-logging:jar:1.3.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-http-converter:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.tomcat.embed:tomcat-embed-core:jar:11.0.20:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: io.micrometer:micrometer-observation:jar:1.16.4:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.opentest4j:opentest4j:jar:1.3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: ch.qos.logback:logback-classic:jar:1.5.32:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-api:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-webmvc:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.skyscreamer:jsonassert:jar:1.5.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apache.logging.log4j:log4j-to-slf4j:jar:2.25.3:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: tools.jackson.core:jackson-core:jar:3.1.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.annotation:jakarta.annotation-api:jar:3.0.0:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.awaitility:awaitility:jar:4.3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.awaitility:awaitility:jar:4.3.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.xmlunit:xmlunit-core:jar:2.10.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-commons:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-websocket-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-jackson-test:jar:4.0.5:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-tomcat-runtime:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-web-server:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.minidev:json-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.minidev:json-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-tomcat:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-websocket:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-websocket:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-websocket:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-websocket:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: jakarta.activation:jakarta.activation-api:jar:2.1.4:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework:spring-webmvc:jar:7.0.6:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.apiguardian:apiguardian-api:jar:1.1.2:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.jupiter:junit-jupiter-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.projectlombok:lombok:jar:1.18.44:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.projectlombok:lombok:jar:1.18.44:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.projectlombok:lombok:jar:1.18.44:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.projectlombok:lombok:jar:1.18.44:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.junit.platform:junit-platform-engine:jar:6.0.3:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-starter-logging:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.yaml:snakeyaml:jar:2.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.yaml:snakeyaml:jar:2.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.minidev:accessors-smart:jar:2.6.0:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: org.springframework.boot:spring-boot-autoconfigure:jar:4.0.5:compile (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = false)[0m
+2026.03.31 00:06:55 INFO  [INFO] Resolving artifact: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] SUCCESS: net.bytebuddy:byte-buddy-agent:jar:1.17.8:test (sources = true)[0m
+2026.03.31 00:06:55 INFO  [INFO] Generated .bloop/ladron-librado-test.json[0m
+2026.03.31 00:06:55 INFO  [INFO] ------------------------------------------------------------------------[0m
+2026.03.31 00:06:55 INFO  [INFO] BUILD SUCCESS[0m
+2026.03.31 00:06:55 INFO  [INFO] ------------------------------------------------------------------------[0m
+2026.03.31 00:06:55 INFO  [INFO] Total time:  7.160 s[0m
+2026.03.31 00:06:55 INFO  [INFO] Finished at: 2026-03-31T00:06:55-06:00[0m
+2026.03.31 00:06:55 INFO  [INFO] ------------------------------------------------------------------------[0m
+2026.03.31 00:06:55 INFO  time: ran 'mvn bloopInstall' in 9.71s[0m
+2026.03.31 00:06:55 INFO  Attempting to connect to the build server...[0m
+2026.03.31 00:06:55 INFO  No running Bloop server found, starting one.[0m
+2026.03.31 00:06:57 INFO  Starting compilation server[0m
+2026.03.31 00:07:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/nataly/java_projects/ladron-librado/.metals/bsp.trace.json or /home/nataly/.cache/metals/bsp.trace.json[0m
+2026.03.31 00:07:00 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/test/java/com/ejemplo/ladron_librado/LadronLibradoApplicationTests.java. Using fallback presentation compiler.[0m
+2026.03.31 00:07:01 INFO  time: Connected to build server in 5.57s[0m
+2026.03.31 00:07:00 INFO  Connected to Build server: Bloop v2.0.19[0m
+2026.03.31 00:07:01 INFO  time: Imported build in 0.41s[0m
+2026.03.31 00:07:05 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.03.31 00:07:18 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/jar:file:/home/nataly/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20-sources.jar!/org/apache/catalina/authenticator/jaspic/PersistentProviderRegistrations.java][0m
+2026.03.31 00:07:18 INFO  Java indexer failed with and exception. (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-03-31/r_failed-idex-java_00-07-18-325.md")[0m
+2026.03.31 00:07:21 INFO  time: indexed workspace in 19s[0m
+2026.03.31 00:07:22 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:07:24 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:07:24 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:07:24 INFO  compiling ladron-librado-test (1 java source)[0m
+2026.03.31 00:07:24 INFO  time: compiled ladron-librado in 3.22s[0m
+2026.03.31 00:07:27 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:07:27 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:07:27 INFO  time: compiled ladron-librado-test in 2.34s[0m
+Mar 31, 2026 12:13:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.03.31 00:14:24 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:14:27 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:14:27 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:14:27 INFO  time: compiled ladron-librado in 3.27s[0m
+Mar 31, 2026 12:14:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+Mar 31, 2026 12:14:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Mar 31, 2026 12:14:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Mar 31, 2026 12:14:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+Mar 31, 2026 12:14:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+Mar 31, 2026 12:14:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+Mar 31, 2026 12:14:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+2026.03.31 00:14:35 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:14:37 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:14:37 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:14:37 INFO  time: compiled ladron-librado in 2.48s[0m
+2026.03.31 00:14:45 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:14:48 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:14:48 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:14:48 INFO  time: compiled ladron-librado in 2.87s[0m
+2026.03.31 00:14:51 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:14:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java:4: error: cannot find symbol
+@RestCon
+ ^
+  symbol: class RestCon
+1 error.[0m
+2026.03.31 00:14:53 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:14:53 WARN  javac exited with exit code 1[0m
+2026.03.31 00:14:53 INFO  time: compiled ladron-librado in 2.07s[0m
+2026.03.31 00:14:58 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:01 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java:3: error: cannot find symbol
+import org.springframework.web.bind.annotation.RestController;
+  ^
+  symbol: class RestCont
+1 error.[0m
+2026.03.31 00:15:01 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:01 WARN  javac exited with exit code 1[0m
+2026.03.31 00:15:01 INFO  time: compiled ladron-librado in 2.62s[0m
+2026.03.31 00:15:01 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:03 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:03 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:03 INFO  time: compiled ladron-librado in 2.52s[0m
+2026.03.31 00:15:12 INFO  compiling ladron-librado (1 java source)[0m
+Mar 31, 2026 12:15:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+Mar 31, 2026 12:15:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 157
+2026.03.31 00:15:15 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java[0m
+2026.03.31 00:15:15 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:15 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:15 INFO  time: compiled ladron-librado in 2.99s[0m
+2026.03.31 00:15:15 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:19 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:19 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:19 INFO  time: compiled ladron-librado in 3.33s[0m
+2026.03.31 00:15:19 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:22 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:22 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:22 INFO  time: compiled ladron-librado in 2.8s[0m
+Mar 31, 2026 12:15:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 199
+2026.03.31 00:15:24 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:27 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:27 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:27 INFO  time: compiled ladron-librado in 3.22s[0m
+Mar 31, 2026 12:15:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Mar 31, 2026 12:15:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+Mar 31, 2026 12:15:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 225
+2026.03.31 00:15:27 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java:14: error: incompatible types: missing return value
+        return ;
+        ^
+1 error.[0m
+2026.03.31 00:15:29 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:29 WARN  javac exited with exit code 1[0m
+2026.03.31 00:15:29 INFO  time: compiled ladron-librado in 2.24s[0m
+Mar 31, 2026 12:15:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2026.03.31 00:15:29 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:32 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:32 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:32 INFO  time: compiled ladron-librado in 2.37s[0m
+2026.03.31 00:15:38 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:40 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:40 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:40 INFO  time: compiled ladron-librado in 2.08s[0m
+Mar 31, 2026 12:15:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 12:15:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Mar 31, 2026 12:15:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 342
+Mar 31, 2026 12:15:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 346
+2026.03.31 00:15:51 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:53 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:53 INFO  time: compiled ladron-librado in 2.3s[0m
+2026.03.31 00:15:56 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:15:58 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:15:58 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:15:58 INFO  time: compiled ladron-librado in 2.79s[0m
+2026.03.31 00:15:58 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:16:02 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:16:02 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:16:02 INFO  time: compiled ladron-librado in 3.09s[0m
+Mar 31, 2026 12:19:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 395
+Mar 31, 2026 12:19:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 415
+Mar 31, 2026 12:19:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 416
+2026.03.31 00:19:37 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:19:37 WARN  Unexpected javac output: error: file not found: /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java
+Usage: javac <options> <source files>
+use --help for a list of possible options.[0m
+2026.03.31 00:19:37 WARN  javac exited with exit code 2[0m
+2026.03.31 00:19:37 INFO  time: compiled ladron-librado in 0.56s[0m
+2026.03.31 00:19:37 INFO  compiling ladron-librado (2 java sources)[0m
+2026.03.31 00:19:40 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:19:40 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:19:40 INFO  time: compiled ladron-librado in 2.48s[0m
+Mar 31, 2026 12:19:50 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java
+java.nio.file.NoSuchFileException: /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:519)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:293)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:304)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:220)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:220)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:220)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:193)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:47)
+	at scala.meta.internal.pc.JavaMetalsGlobal.documentation(JavaMetalsGlobal.scala:187)
+	at scala.meta.internal.pc.JavaHoverProvider.$anonfun$hoverOffset$1(JavaHoverProvider.scala:67)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.JavaHoverProvider.hoverOffset(JavaHoverProvider.scala:57)
+	at scala.meta.internal.pc.JavaHoverProvider.hover(JavaHoverProvider.scala:37)
+	at scala.meta.internal.pc.JavaPresentationCompiler.hover(JavaPresentationCompiler.scala:80)
+	at scala.meta.internal.metals.Compilers.$anonfun$hover$1(Compilers.scala:1134)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$12(Compilers.scala:1628)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$10(Compilers.scala:1628)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1610)
+	at scala.meta.internal.metals.Compilers.hover(Compilers.scala:1129)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$hover$1(MetalsLspService.scala:985)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.hover(MetalsLspService.scala:983)
+	at scala.meta.internal.metals.WorkspaceLspService.hover(WorkspaceLspService.scala:524)
+	at scala.meta.metals.lsp.DelegatingScalaService.hover(DelegatingScalaService.scala:78)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Mar 31, 2026 12:19:50 AM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java
+java.nio.file.NoSuchFileException: /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HelloController.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:38)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:519)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:101)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:293)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:304)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:315)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:220)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:220)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:220)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:193)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:143)
+	at scala.collection.immutable.List.flatMap(List.scala:283)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:143)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:138)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:47)
+	at scala.meta.internal.pc.JavaMetalsGlobal.documentation(JavaMetalsGlobal.scala:187)
+	at scala.meta.internal.pc.JavaHoverProvider.$anonfun$hoverOffset$1(JavaHoverProvider.scala:67)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.JavaHoverProvider.hoverOffset(JavaHoverProvider.scala:57)
+	at scala.meta.internal.pc.JavaHoverProvider.hover(JavaHoverProvider.scala:37)
+	at scala.meta.internal.pc.JavaPresentationCompiler.hover(JavaPresentationCompiler.scala:80)
+	at scala.meta.internal.metals.Compilers.$anonfun$hover$1(Compilers.scala:1134)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$12(Compilers.scala:1628)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$10(Compilers.scala:1628)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1610)
+	at scala.meta.internal.metals.Compilers.hover(Compilers.scala:1129)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$hover$1(MetalsLspService.scala:985)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.hover(MetalsLspService.scala:983)
+	at scala.meta.internal.metals.WorkspaceLspService.hover(WorkspaceLspService.scala:524)
+	at scala.meta.metals.lsp.DelegatingScalaService.hover(DelegatingScalaService.scala:78)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Mar 31, 2026 12:19:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 448
+2026.03.31 00:19:52 INFO  compiling ladron-librado (1 java source)[0m
+2026.03.31 00:19:55 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.03.31 00:19:55 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.03.31 00:19:55 INFO  time: compiled ladron-librado in 2.47s[0m
