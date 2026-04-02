@@ -1258,3 +1258,1574 @@ WARNING: Unmatched cancel notification for request id 448
   Use -proc:none to disable annotation processing..[0m
 2026.03.31 00:19:55 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
 2026.03.31 00:19:55 INFO  time: compiled ladron-librado in 2.47s[0m
+                                                                                                                                                                                                                                                                              2026.04.01 17:35:59 INFO  Started: Metals version 1.6.6 in folders '/home/nataly/java_projects/ladron-librado' for client Visual Studio Code 1.113.0.[0m
+2026.04.01 17:35:59 INFO  Memory monitor started[0m
+2026.04.01 17:36:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.04.01 17:36:01 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+Apr 01, 2026 5:36:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.01 17:36:02 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 17:36:02 INFO  Attempting to connect to the build server...[0m
+2026.04.01 17:36:02 INFO  No running Bloop server found, starting one.[0m
+2026.04.01 17:36:07 INFO  Starting compilation server[0m
+2026.04.01 17:36:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/nataly/java_projects/ladron-librado/.metals/bsp.trace.json or /home/nataly/.cache/metals/bsp.trace.json[0m
+2026.04.01 17:36:15 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 17:36:15 INFO  time: Connected to build server in 13s[0m
+2026.04.01 17:36:15 INFO  Connected to Build server: Bloop v2.0.19[0m
+2026.04.01 17:36:16 INFO  time: Imported build in 0.56s[0m
+2026.04.01 17:36:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.04.01 17:36:28 INFO  time: indexed workspace in 11s[0m
+2026.04.01 17:37:24 INFO  Shutting down server[0m
+2026.04.01 17:37:24 INFO  Memory monitor stopped[0m
+2026.04.01 17:37:24 INFO  shutting down Metals[0m
+2026.04.01 17:37:24 INFO  Shut down connection with build server.[0m
+2026.04.01 17:37:24 INFO  Exiting server[0m
+2026.04.01 23:31:53 INFO  Started: Metals version 1.6.6 in folders '/home/nataly/java_projects/ladron-librado' for client Visual Studio Code 1.113.0.[0m
+2026.04.01 23:31:53 INFO  Memory monitor started[0m
+2026.04.01 23:31:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.04.01 23:31:55 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 23:31:56 INFO  Attempting to connect to the build server...[0m
+2026.04.01 23:31:56 INFO  No running Bloop server found, starting one.[0m
+2026.04.01 23:31:57 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 23:32:00 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 23:32:01 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 23:32:01 INFO  Starting compilation server[0m
+2026.04.01 23:32:03 INFO  no build target found for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/controller/HealthController.java. Using fallback presentation compiler.[0m
+2026.04.01 23:32:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/nataly/java_projects/ladron-librado/.metals/bsp.trace.json or /home/nataly/.cache/metals/bsp.trace.json[0m
+2026.04.01 23:32:06 INFO  time: Connected to build server in 11s[0m
+2026.04.01 23:32:06 INFO  Connected to Build server: Bloop v2.0.19[0m
+2026.04.01 23:32:06 INFO  time: Imported build in 0.26s[0m
+2026.04.01 23:32:11 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.04.01 23:32:13 INFO  time: indexed workspace in 7s[0m
+2026.04.01 23:33:43 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Position.java][0m
+2026.04.01 23:33:43 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Position.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-33-43-882.md")[0m
+2026.04.01 23:33:44 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:33:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Apr 01, 2026 11:33:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 01, 2026 11:33:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2026.04.01 23:33:48 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:33:48 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:33:48 INFO  time: compiled ladron-librado in 4.87s[0m
+2026.04.01 23:33:48 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Apr 01, 2026 11:33:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2026.04.01 23:33:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:33:53 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:33:53 INFO  time: compiled ladron-librado in 4.38s[0m
+2026.04.01 23:33:53 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:33:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+Apr 01, 2026 11:33:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+Apr 01, 2026 11:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+Apr 01, 2026 11:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+Apr 01, 2026 11:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+Apr 01, 2026 11:33:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Apr 01, 2026 11:33:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Apr 01, 2026 11:33:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+Apr 01, 2026 11:33:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+2026.04.01 23:33:57 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:33:57 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:33:57 INFO  time: compiled ladron-librado in 4.2s[0m
+Apr 01, 2026 11:33:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+Apr 01, 2026 11:33:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+2026.04.01 23:33:57 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:34:00 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:00 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:00 INFO  time: compiled ladron-librado in 2.02s[0m
+2026.04.01 23:34:16 INFO  compiling ladron-librado (3 java sources)[0m
+2026.04.01 23:34:18 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:18 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:18 INFO  time: compiled ladron-librado in 2.99s[0m
+2026.04.01 23:34:18 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:34:21 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:21 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:21 INFO  time: compiled ladron-librado in 1.92s[0m
+2026.04.01 23:34:27 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java][0m
+2026.04.01 23:34:27 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-27-318.md")[0m
+2026.04.01 23:34:27 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 100
+2026.04.01 23:34:30 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:30 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:30 INFO  time: compiled ladron-librado in 3.31s[0m
+2026.04.01 23:34:30 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+Apr 01, 2026 11:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 135
+Apr 01, 2026 11:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 138
+Apr 01, 2026 11:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+2026.04.01 23:34:34 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:34 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:34 INFO  time: compiled ladron-librado in 3.42s[0m
+2026.04.01 23:34:34 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+Apr 01, 2026 11:34:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+Apr 01, 2026 11:34:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+Apr 01, 2026 11:34:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 136
+Apr 01, 2026 11:34:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 144
+Apr 01, 2026 11:34:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 142
+Apr 01, 2026 11:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 143
+Apr 01, 2026 11:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 147
+Apr 01, 2026 11:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+Apr 01, 2026 11:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 153
+Apr 01, 2026 11:34:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+2026.04.01 23:34:37 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:37 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:37 INFO  time: compiled ladron-librado in 3.73s[0m
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 158
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 152
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 157
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 155
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 159
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 149
+Apr 01, 2026 11:34:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+Apr 01, 2026 11:34:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+Apr 01, 2026 11:34:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+Apr 01, 2026 11:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 175
+Apr 01, 2026 11:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 174
+Apr 01, 2026 11:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 169
+Apr 01, 2026 11:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 172
+Apr 01, 2026 11:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 179
+2026.04.01 23:34:40 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java[0m
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 180
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 186
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 182
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 189
+2026.04.01 23:34:41 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java[0m
+2026.04.01 23:34:41 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java[0m
+Apr 01, 2026 11:34:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 190
+2026.04.01 23:34:41 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 194
+Apr 01, 2026 11:34:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 188
+Apr 01, 2026 11:34:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+Apr 01, 2026 11:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 201
+Apr 01, 2026 11:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 200
+Apr 01, 2026 11:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 196
+2026.04.01 23:34:44 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Direction.java[0m
+Apr 01, 2026 11:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+Apr 01, 2026 11:34:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 209
+2026.04.01 23:34:45 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:45 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:45 INFO  time: compiled ladron-librado in 3.55s[0m
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 204
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 206
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 195
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 212
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 213
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Apr 01, 2026 11:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+2026.04.01 23:34:45 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 214
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 220
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 217
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 219
+Apr 01, 2026 11:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+2026.04.01 23:34:47 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:47 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:47 INFO  time: compiled ladron-librado in 2.02s[0m
+2026.04.01 23:34:54 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java][0m
+2026.04.01 23:34:54 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:34:54 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:34:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 232
+2026.04.01 23:34:56 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:56 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:56 INFO  time: compiled ladron-librado in 2.37s[0m
+2026.04.01 23:34:56 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:34:59 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:34:59 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:34:59 INFO  time: compiled ladron-librado in 2.71s[0m
+2026.04.01 23:34:59 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:35:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278
+2026.04.01 23:35:02 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:35:02 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:02 INFO  time: compiled ladron-librado in 2.99s[0m
+Apr 01, 2026 11:35:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 312
+2026.04.01 23:35:02 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:02 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:35:03 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: <identifier> expected
+    String id,
+              ^
+1 error.[0m
+2026.04.01 23:35:03 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:03 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:03 INFO  time: compiled ladron-librado in 1.13s[0m
+2026.04.01 23:35:04 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:06 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:06 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:07 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:09 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 362
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 366
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 367
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 369
+2026.04.01 23:35:09 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 373
+Apr 01, 2026 11:35:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 375
+2026.04.01 23:35:09 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 387
+2026.04.01 23:35:11 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:12 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:12 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:35:13 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: ';' expected
+    Position position,
+            ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                     ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+3 errors.[0m
+2026.04.01 23:35:13 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:13 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:13 INFO  time: compiled ladron-librado in 1.44s[0m
+2026.04.01 23:35:14 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:18 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:22 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:23 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:24 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:24 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:35:25 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:26 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: ';' expected
+    Po position,
+      ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Po position,
+               ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Po position,
+                ^
+3 errors.[0m
+2026.04.01 23:35:26 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:26 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:26 INFO  time: compiled ladron-librado in 1.31s[0m
+2026.04.01 23:35:26 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:26 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:35:26 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:27 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: ';' expected
+    Position position,
+            ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                     ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+3 errors.[0m
+2026.04.01 23:35:27 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:27 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:27 INFO  time: compiled ladron-librado in 1.17s[0m
+2026.04.01 23:35:31 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:35:31 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:31 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: ';' expected
+    Position position,
+            ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                     ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+3 errors.[0m
+2026.04.01 23:35:31 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:31 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:31 INFO  time: compiled ladron-librado in 1.43s[0m
+2026.04.01 23:35:31 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:36 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:37 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:37 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:35:38 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: ';' expected
+    Position position,
+            ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                     ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+3 errors.[0m
+2026.04.01 23:35:38 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:38 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:38 INFO  time: compiled ladron-librado in 1.14s[0m
+2026.04.01 23:35:38 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:45 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:46 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:47 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:47 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:35:47 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:47 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:48 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:3: error: '{' expected
+public class Player 
+                   ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:7: error: class, interface, enum, or record expected
+}
+^
+2 errors.[0m
+2026.04.01 23:35:48 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:48 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:48 INFO  time: compiled ladron-librado in 1.27s[0m
+2026.04.01 23:35:49 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:49 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:50 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:50 INFO  compiling ladron-librado (2 java sources)[0m
+Apr 01, 2026 11:35:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 567
+2026.04.01 23:35:51 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:51 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:35:52 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+1 error.[0m
+2026.04.01 23:35:52 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:52 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:52 INFO  time: compiled ladron-librado in 1.71s[0m
+2026.04.01 23:35:52 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:35:52 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: <identifier> expected
+    Position position,
+                      ^
+1 error.[0m
+2026.04.01 23:35:53 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:53 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:53 INFO  time: compiled ladron-librado in 1.43s[0m
+2026.04.01 23:35:53 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:35:54 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:35:56 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+    Position position;
+    ^
+  symbol:   class Position
+  location: class Player
+1 error.[0m
+2026.04.01 23:35:56 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:35:56 WARN  javac exited with exit code 1[0m
+2026.04.01 23:35:56 INFO  time: compiled ladron-librado in 2s[0m
+2026.04.01 23:35:57 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 608
+Apr 01, 2026 11:35:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 610
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 616
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 614
+2026.04.01 23:35:58 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 618
+2026.04.01 23:35:58 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 632
+Apr 01, 2026 11:35:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 631
+2026.04.01 23:35:59 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:36:00 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:36:00 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:36:01 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:36:02 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java[0m
+2026.04.01 23:36:01 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:01 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:01 INFO  time: compiled ladron-librado in 2.28s[0m
+2026.04.01 23:36:01 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:03 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:03 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:03 INFO  time: compiled ladron-librado in 2.69s[0m
+2026.04.01 23:36:04 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:36:03 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:05 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:8: error: <identifier> expected
+    Role
+        ^
+1 error.[0m
+2026.04.01 23:36:05 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:05 WARN  javac exited with exit code 1[0m
+2026.04.01 23:36:05 INFO  time: compiled ladron-librado in 1.02s[0m
+2026.04.01 23:36:18 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Role.java][0m
+2026.04.01 23:36:18 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/Role.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-36-18-481.md")[0m
+2026.04.01 23:36:18 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:21 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:21 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:21 INFO  time: compiled ladron-librado in 3.1s[0m
+2026.04.01 23:36:21 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:24 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:24 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:24 INFO  time: compiled ladron-librado in 2.49s[0m
+Apr 01, 2026 11:36:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 748
+2026.04.01 23:36:25 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:28 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:28 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:28 INFO  time: compiled ladron-librado in 2.72s[0m
+2026.04.01 23:36:28 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:36:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 787
+Apr 01, 2026 11:36:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 806
+2026.04.01 23:36:32 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:32 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+Apr 01, 2026 11:36:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 825
+2026.04.01 23:36:32 INFO  time: compiled ladron-librado in 3.82s[0m
+Apr 01, 2026 11:36:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 839
+2026.04.01 23:36:35 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:37 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:37 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:37 INFO  time: compiled ladron-librado in 2.14s[0m
+2026.04.01 23:36:47 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:49 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:49 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:49 INFO  time: compiled ladron-librado in 2.73s[0m
+Apr 01, 2026 11:36:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 890
+Apr 01, 2026 11:36:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+2026.04.01 23:36:54 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:36:57 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:36:57 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:36:57 INFO  time: compiled ladron-librado in 2.83s[0m
+Apr 01, 2026 11:36:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 932
+2026.04.01 23:37:00 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 958
+Apr 01, 2026 11:37:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 960
+2026.04.01 23:37:01 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/enums/State.java[0m
+2026.04.01 23:37:00 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:37:00 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:00 INFO  time: compiled ladron-librado in 2.6s[0m
+2026.04.01 23:37:01 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:37:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 977
+2026.04.01 23:37:04 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:37:04 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:04 INFO  time: compiled ladron-librado in 3.08s[0m
+2026.04.01 23:37:04 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:07 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:37:07 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:07 INFO  time: compiled ladron-librado in 2.11s[0m
+Apr 01, 2026 11:37:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 994
+Apr 01, 2026 11:37:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1021
+2026.04.01 23:37:22 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:22 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:37:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1066
+Apr 01, 2026 11:37:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1065
+Apr 01, 2026 11:37:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1070
+2026.04.01 23:37:24 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:10: error: <identifier> expected
+    Role
+        ^
+1 error.[0m
+2026.04.01 23:37:24 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:24 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:24 INFO  time: compiled ladron-librado in 1.87s[0m
+2026.04.01 23:37:26 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1102
+2026.04.01 23:37:28 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:37:29 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:29 INFO  time: compiled ladron-librado in 3.25s[0m
+2026.04.01 23:37:29 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:30 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: <identifier> expected
+    Stat
+        ^
+1 error.[0m
+2026.04.01 23:37:30 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:30 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:30 INFO  time: compiled ladron-librado in 1.18s[0m
+2026.04.01 23:37:31 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:30 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:32 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:32 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:10: error: <identifier> expected
+    Position position;
+         ^
+1 error.[0m
+2026.04.01 23:37:32 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:32 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:32 INFO  time: compiled ladron-librado in 1.11s[0m
+2026.04.01 23:37:32 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:33 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:33 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:33 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:33 INFO  time: compiled ladron-librado in 1.11s[0m
+2026.04.01 23:37:43 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:43 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:44 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:9: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:44 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:44 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:44 INFO  time: compiled ladron-librado in 1.1s[0m
+2026.04.01 23:37:48 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:48 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:49 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:10: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:49 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:49 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:49 INFO  time: compiled ladron-librado in 1.25s[0m
+2026.04.01 23:37:52 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:52 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:53 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:10: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:53 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:53 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:53 INFO  time: compiled ladron-librado in 1.39s[0m
+2026.04.01 23:37:53 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:53 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:55 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:55 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:55 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:55 INFO  time: compiled ladron-librado in 1.2s[0m
+2026.04.01 23:37:57 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-34-54-127.md")[0m
+2026.04.01 23:37:57 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:37:57 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: <identifier> expected
+    State
+         ^
+1 error.[0m
+2026.04.01 23:37:57 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:37:57 WARN  javac exited with exit code 1[0m
+2026.04.01 23:37:57 INFO  time: compiled ladron-librado in 0.87s[0m
+Apr 01, 2026 11:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1374
+Apr 01, 2026 11:37:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1371
+2026.04.01 23:38:00 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:38:02 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:38:02 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:02 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:02 INFO  time: compiled ladron-librado in 1.89s[0m
+2026.04.01 23:38:04 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:38:06 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:38:06 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:06 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:06 INFO  time: compiled ladron-librado in 1.77s[0m
+2026.04.01 23:38:17 INFO  Created report: Optional[file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java][0m
+2026.04.01 23:38:17 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:38:17 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:38:20 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:38:20 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:20 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:20 INFO  time: compiled ladron-librado in 2.29s[0m
+2026.04.01 23:38:20 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:38:21 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:38:21 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:21 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:21 INFO  time: compiled ladron-librado in 1.59s[0m
+2026.04.01 23:38:24 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:38:24 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:38:25 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:4: error: <identifier> expected
+    List
+        ^
+1 error.[0m
+2026.04.01 23:38:25 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:25 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:25 INFO  time: compiled ladron-librado in 1.02s[0m
+2026.04.01 23:38:28 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:38:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:38:29 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:38:29 WARN  javac exited with exit code 1[0m
+2026.04.01 23:38:29 INFO  time: compiled ladron-librado in 1.72s[0m
+Apr 01, 2026 11:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1468
+Apr 01, 2026 11:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1466
+Apr 01, 2026 11:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1471
+Apr 01, 2026 11:39:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1469
+2026.04.01 23:39:31 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:39:31 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:39:31 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:4: error: <identifier> expected
+    Ma
+      ^
+1 error.[0m
+2026.04.01 23:39:31 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:39:31 WARN  javac exited with exit code 1[0m
+2026.04.01 23:39:31 INFO  time: compiled ladron-librado in 0.97s[0m
+2026.04.01 23:39:36 INFO  compiling ladron-librado (2 java sources)[0m
+Apr 01, 2026 11:39:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1497
+2026.04.01 23:39:38 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:4: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.Role;
+                                             ^
+  symbol:   class Role
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:5: error: cannot find symbol
+import com.ejemplo.ladron_librado.model.value.State;
+                                             ^
+  symbol:   class State
+  location: package com.ejemplo.ladron_librado.model.value
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:12: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+4 errors.[0m
+2026.04.01 23:39:38 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:39:38 WARN  javac exited with exit code 1[0m
+2026.04.01 23:39:38 INFO  time: compiled ladron-librado in 2.07s[0m
+2026.04.01 23:39:44 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:39:46 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:9: error: cannot find symbol
+    Role role;
+    ^
+  symbol:   class Role
+  location: class Player
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:10: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+2 errors.[0m
+2026.04.01 23:39:46 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:39:46 WARN  javac exited with exit code 1[0m
+2026.04.01 23:39:46 INFO  time: compiled ladron-librado in 2.1s[0m
+Apr 01, 2026 11:39:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1531
+Apr 01, 2026 11:39:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1538
+Apr 01, 2026 11:39:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1545
+Apr 01, 2026 11:39:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1553
+Apr 01, 2026 11:39:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1569
+2026.04.01 23:39:54 INFO  compiling ladron-librado (2 java sources)[0m
+Apr 01, 2026 11:39:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1581
+Apr 01, 2026 11:39:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1589
+Apr 01, 2026 11:39:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+Apr 01, 2026 11:39:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1597
+2026.04.01 23:39:57 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/Player.java:11: error: cannot find symbol
+    State state;
+    ^
+  symbol:   class State
+  location: class Player
+1 error.[0m
+2026.04.01 23:39:57 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:39:57 WARN  javac exited with exit code 1[0m
+2026.04.01 23:39:57 INFO  time: compiled ladron-librado in 3.13s[0m
+2026.04.01 23:40:00 INFO  compiling ladron-librado (2 java sources)[0m
+2026.04.01 23:40:00 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:40:00 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:00 INFO  time: compiled ladron-librado in 2.28s[0m
+2026.04.01 23:40:10 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:10 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:10 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map
+       ^
+1 error.[0m
+2026.04.01 23:40:10 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:10 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:10 INFO  time: compiled ladron-librado in 0.99s[0m
+2026.04.01 23:40:19 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:19 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:20 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: illegal start of type
+    Map<>
+        ^
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<>
+         ^
+2 errors.[0m
+2026.04.01 23:40:20 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:20 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:20 INFO  time: compiled ladron-librado in 1.08s[0m
+2026.04.01 23:40:23 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:23 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:23 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+Apr 01, 2026 11:40:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1695
+Apr 01, 2026 11:40:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1699
+Apr 01, 2026 11:40:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1693
+2026.04.01 23:40:26 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:26 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:28 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String>
+               ^
+1 error.[0m
+2026.04.01 23:40:28 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:28 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:28 INFO  time: compiled ladron-librado in 1.94s[0m
+2026.04.01 23:40:28 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:28 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Pla>
+                    ^
+1 error.[0m
+2026.04.01 23:40:29 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:29 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:29 INFO  time: compiled ladron-librado in 1.13s[0m
+2026.04.01 23:40:30 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:29 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:29 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Player>
+                       ^
+1 error.[0m
+2026.04.01 23:40:29 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:29 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:29 INFO  time: compiled ladron-librado in 1.42s[0m
+2026.04.01 23:40:32 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:32 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:33 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Playe>
+                      ^
+1 error.[0m
+2026.04.01 23:40:33 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:33 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:33 INFO  time: compiled ladron-librado in 1.17s[0m
+2026.04.01 23:40:33 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:33 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:34 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Player>
+                       ^
+1 error.[0m
+2026.04.01 23:40:34 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:34 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:34 INFO  time: compiled ladron-librado in 0.96s[0m
+2026.04.01 23:40:36 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:36 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:37 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:37 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Playe>
+                      ^
+1 error.[0m
+2026.04.01 23:40:37 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:37 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:37 INFO  time: compiled ladron-librado in 1.15s[0m
+2026.04.01 23:40:37 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:38 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Playe>
+                      ^
+1 error.[0m
+2026.04.01 23:40:38 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:38 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:38 INFO  time: compiled ladron-librado in 1.07s[0m
+2026.04.01 23:40:38 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:38 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:39 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Player>
+                       ^
+1 error.[0m
+2026.04.01 23:40:39 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:39 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:39 INFO  time: compiled ladron-librado in 0.99s[0m
+2026.04.01 23:40:44 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:44 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:45 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Player>;
+                       ^
+1 error.[0m
+2026.04.01 23:40:45 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:45 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:45 INFO  time: compiled ladron-librado in 1.08s[0m
+2026.04.01 23:40:48 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:40:48 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:49 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:6: error: <identifier> expected
+    Map<String, Player> ;
+                       ^
+1 error.[0m
+2026.04.01 23:40:49 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:49 WARN  javac exited with exit code 1[0m
+2026.04.01 23:40:49 INFO  time: compiled ladron-librado in 1.07s[0m
+2026.04.01 23:40:53 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:55 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:40:55 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:55 INFO  time: compiled ladron-librado in 2.27s[0m
+2026.04.01 23:40:55 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:40:55 WARN  Could not load snapshot text for /home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java[0m
+2026.04.01 23:40:57 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:40:57 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:40:57 INFO  time: compiled ladron-librado in 1.94s[0m
+2026.04.01 23:42:15 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:42:15 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:42:15 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:42:15 INFO  time: compiled ladron-librado in 2.11s[0m
+Apr 01, 2026 11:42:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1914
+2026.04.01 23:42:20 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:42:20 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:42:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1931
+2026.04.01 23:42:21 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:7: error: <identifier> expected
+    String
+          ^
+1 error.[0m
+2026.04.01 23:42:21 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:42:21 WARN  javac exited with exit code 1[0m
+2026.04.01 23:42:21 INFO  time: compiled ladron-librado in 1.17s[0m
+Apr 01, 2026 11:42:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1933
+Apr 01, 2026 11:42:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1935
+Apr 01, 2026 11:42:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1932
+Apr 01, 2026 11:42:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936
+2026.04.01 23:42:27 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:42:27 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:42:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1983
+2026.04.01 23:42:28 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:8: error: <identifier> expected
+    BigInteger 
+              ^
+1 error.[0m
+2026.04.01 23:42:28 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:42:28 WARN  javac exited with exit code 1[0m
+2026.04.01 23:42:28 INFO  time: compiled ladron-librado in 1.23s[0m
+Apr 01, 2026 11:42:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2005
+2026.04.01 23:42:33 INFO  QDox parse error in file:///home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java (full report at: "/home/nataly/java_projects/ladron-librado/.metals/.reports/metals-full/2026-04-01/r_qdox-error_(ladron-librado)_23-38-17-871.md")[0m
+2026.04.01 23:42:33 INFO  compiling ladron-librado (1 java source)[0m
+Apr 01, 2026 11:42:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2043
+Apr 01, 2026 11:42:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2044
+2026.04.01 23:42:35 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing.
+/home/nataly/java_projects/ladron-librado/src/main/java/com/ejemplo/ladron_librado/model/entity/GameRoom.java:9: error: <identifier> expected
+    BigInteger 
+              ^
+1 error.[0m
+2026.04.01 23:42:35 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:42:35 WARN  javac exited with exit code 1[0m
+2026.04.01 23:42:35 INFO  time: compiled ladron-librado in 2.01s[0m
+2026.04.01 23:42:37 INFO  compiling ladron-librado (1 java source)[0m
+2026.04.01 23:42:39 WARN  Unexpected javac output: Note: Annotation processing is enabled because one or more processors were found
+  on the class path. A future release of javac may disable annotation processing
+  unless at least one processor is specified by name (-processor), or a search
+  path is specified (--processor-path, --processor-module-path), or annotation
+  processing is enabled explicitly (-proc:only, -proc:full).
+  Use -Xlint:-options to suppress this message.
+  Use -proc:none to disable annotation processing..[0m
+2026.04.01 23:42:39 INFO  Note: Annotation processing is enabled because one or more processors were found[0m
+2026.04.01 23:42:39 INFO  time: compiled ladron-librado in 2.06s[0m
+Apr 01, 2026 11:43:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 01, 2026 11:43:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
